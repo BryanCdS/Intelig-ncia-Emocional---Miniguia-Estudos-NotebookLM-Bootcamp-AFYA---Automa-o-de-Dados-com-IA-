@@ -1,0 +1,1 @@
+# Intelig-ncia-Emocional---Miniguia-Estudos-NotebookLM-Bootcamp-AFYA---Automa-o-de-Dados-com-IA-
