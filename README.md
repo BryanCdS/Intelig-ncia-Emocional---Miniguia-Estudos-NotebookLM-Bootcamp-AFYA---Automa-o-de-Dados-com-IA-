@@ -1,7 +1,7 @@
 # Inteligência Emocional - Miniguia Estudos NotebookLM
 
 
-CONTEXTO E OBJETIVO
+### CONTEXTO E OBJETIVO
 
 Impulsionado pela busca constante por desenvolvimento pessoal e profissional, e guiado pelo princípio da melhoria contínua, encontrei na Inteligência Emocional (IE) um tema de grande relevância para ser explorado no desafio/projeto do Bootcamp AFYA – Automação de Dados com IA.
 
@@ -10,7 +10,7 @@ A proposta do projeto consiste no desenvolvimento de uma solução baseada no No
 Nesse contexto, o projeto busca estruturar um caderno temático no NotebookLM voltado ao estudo e aprofundamento da Inteligência Emocional, promovendo uma experiência de aprendizagem mais dinâmica, reflexiva e orientada à construção de conhecimento de forma prática e consistente. Dessa maneira, a IA deixa de ser apenas um recurso operacional e passa a desempenhar um papel de suporte intelectual, contribuindo para o desenvolvimento de competências analíticas, emocionais e estratégicas aplicáveis tanto no âmbito pessoal quanto profissional.
 
 
-CURADORIA DE FONTES
+### CURADORIA DE FONTES
 
 A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mindset in Positive Psychology". Segue abaixo as fontes utilizadas:
 * https://www.psychologytoday.com/ie/blog/creative-insights/202605/emotional-intelligence-and-creativity-new-research-and-practices
@@ -23,7 +23,7 @@ A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mi
 * https://www.youtube.com/watch?v=GPVPFp2AHrY&pp=ygU5RW1vdGlvbmFsIEludGVsbGlnZW5jZSBhbmQgTWluZHNldCBpbiBQb3NpdGl2ZSBQc3ljaG9sb2d5
 
 
-ENGENHARIA DE PROMPTS E "CICATRIZES"
+### ENGENHARIA DE PROMPTS E "CICATRIZES"
 
 PERGUNTAS:
 * O que é Inteligência Emocional?
@@ -33,8 +33,7 @@ PERGUNTAS:
 * Falando como um especialista. Sabendo que no momento presente muitas pessoas apresentam alta aptidão ao desenvolvimento da Inteligência Emocional. Com tudo vem se evidenciando nessas mesmas pessoas, a presença mecanismos sabotadores. Considerando o que foi dito anteriormente. O que e como pode ser feito em relação ao Soft skills cobradas nos requisitos das vagas de trabalho?
 
 
-MINIGUIA DE ESTUDO (ENTREGA FINAL)
-
+### MINIGUIA DE ESTUDO (ENTREGA FINAL)
 
 **RESUMO ESTRUTURADO DO ASSUNTO**
 Este resumo estruturado apresenta os conceitos fundamentais da **Inteligência Emocional (IE)**, suas estruturas teóricas, impactos no bem-estar e estratégias de desenvolvimento, com base nas fontes fornecidas.
@@ -78,7 +77,7 @@ As fontes sugerem métodos deliberados para fortalecer a IE:
 Apesar dos benefícios, a IE pode ser usada de forma **manipuladora** para enganar, controlar ou explorar terceiros, mascarando agendas ocultas através de charme insincero ou empatia fingida.
 
 
-GLOSSÁRIO COM OS PRINCIPAIS CONCEITOS APRENDIDOS
+### GLOSSÁRIO COM OS PRINCIPAIS CONCEITOS APRENDIDOS
 Com base nas fontes fornecidas, este glossário reúne os conceitos fundamentais para a compreensão da Inteligência Emocional, das teorias de Mindset e da Psicologia Positiva:
 
 ### **A**
@@ -126,7 +125,7 @@ Com base nas fontes fornecidas, este glossário reúne os conceitos fundamentais
 *   **Somatic Markers (Marcadores Somáticos):** Sinais físicos ou "instintos" que o cérebro usa para filtrar opções e guiar a tomada de decisões de forma rápida e eficiente.
 
 
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema
+### PROMPTS REUTILIZÁVEIS
 Para apoiar suas futuras revisões sobre Inteligência Emocional (IE) e Mentalidades (Mindsets), elaborei um conjunto de **prompts estruturados** com base nas fontes. Estes prompts foram desenhados para extrair informações profundas e práticas, permitindo que você explore desde fundamentos teóricos até aplicações em liderança e saúde mental.
 
 ### 1. Fundamentos e Modelos de Inteligência Emocional
