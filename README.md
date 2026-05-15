@@ -12,14 +12,14 @@ Nesse contexto, o projeto busca estruturar um caderno temático no NotebookLM vo
 CURADORIA DE FONTES
 
 A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mindset in Positive Psychology". Segue abaixo as fontes utilizadas:
-https://www.psychologytoday.com/ie/blog/creative-insights/202605/emotional-intelligence-and-creativity-new-research-and-practices
-https://pmc.ncbi.nlm.nih.gov/articles/PMC5981239/
-https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.aicura.com%2Feleadership%2Fpersonal-effectiveness%2Fgolemans-5-elements-of-eq%2F
-https://www.google.com/url?sa=E&q=https%3A%2F%2Fpositivepsychology.com%2Fimportance-of-emotional-intelligence%2F
-https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.simplypsychology.org%2Femotional-intelligence.html
-https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.tsw.co.uk%2Finsights%2Fdaniel-goleman-emotional-intelligence%2F
-https://www.youtube.com/watch?v=cr8sLxde1m8&pp=ygU5RW1vdGlvbmFsIEludGVsbGlnZW5jZSBhbmQgTWluZHNldCBpbiBQb3NpdGl2ZSBQc3ljaG9sb2d5
-https://www.youtube.com/watch?v=GPVPFp2AHrY&pp=ygU5RW1vdGlvbmFsIEludGVsbGlnZW5jZSBhbmQgTWluZHNldCBpbiBQb3NpdGl2ZSBQc3ljaG9sb2d5
+* https://www.psychologytoday.com/ie/blog/creative-insights/202605/emotional-intelligence-and-creativity-new-research-and-practices
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC5981239/
+* https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.aicura.com%2Feleadership%2Fpersonal-effectiveness%2Fgolemans-5-elements-of-eq%2F
+* https://www.google.com/url?sa=E&q=https%3A%2F%2Fpositivepsychology.com%2Fimportance-of-emotional-intelligence%2F
+* https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.simplypsychology.org%2Femotional-intelligence.html
+* https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.tsw.co.uk%2Finsights%2Fdaniel-goleman-emotional-intelligence%2F
+* https://www.youtube.com/watch?v=cr8sLxde1m8&pp=ygU5RW1vdGlvbmFsIEludGVsbGlnZW5jZSBhbmQgTWluZHNldCBpbiBQb3NpdGl2ZSBQc3ljaG9sb2d5
+* https://www.youtube.com/watch?v=GPVPFp2AHrY&pp=ygU5RW1vdGlvbmFsIEludGVsbGlnZW5jZSBhbmQgTWluZHNldCBpbiBQb3NpdGl2ZSBQc3ljaG9sb2d5
 
 
 ENGENHARIA DE PROMPTS E "CICATRIZES"
