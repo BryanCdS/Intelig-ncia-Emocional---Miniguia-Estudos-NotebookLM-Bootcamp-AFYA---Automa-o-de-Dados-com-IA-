@@ -36,7 +36,7 @@ PERGUNTAS:
 MINIGUIA DE ESTUDO (ENTREGA FINAL)
 
 
-RESUMO ESTRUTURADO DO ASSUNTO
+**RESUMO ESTRUTURADO DO ASSUNTO**
 Este resumo estruturado apresenta os conceitos fundamentais da **Inteligência Emocional (IE)**, suas estruturas teóricas, impactos no bem-estar e estratégias de desenvolvimento, com base nas fontes fornecidas.
 
 ### 1. Definição e Conceitos Fundamentais
