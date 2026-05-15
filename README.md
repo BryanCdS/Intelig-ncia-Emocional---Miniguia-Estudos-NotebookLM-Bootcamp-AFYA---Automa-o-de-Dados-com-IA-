@@ -1,6 +1,7 @@
 # Inteligência Emocional - Miniguia Estudos NotebookLM Bootcamp AFYA - Automação de Dados com IA
 
 CONTEXTO
+
 Impulsionado pela busca constante por desenvolvimento pessoal e profissional, e guiado pelo princípio da melhoria contínua, encontrei na Inteligência Emocional (IE) um tema de grande relevância para ser explorado no desafio/projeto do Bootcamp AFYA – Automação de Dados com IA.
 
 A proposta do projeto consiste no desenvolvimento de uma solução baseada no NotebookLM, concebida para atuar não apenas como uma ferramenta de apoio tecnológico, mas como um verdadeiro agente facilitador do aprendizado ativo. A ideia central é utilizar a inteligência artificial como um orientador estratégico e consultor de conhecimento, capaz de auxiliar na organização de informações, na curadoria de fontes confiáveis e no estímulo ao pensamento crítico.
