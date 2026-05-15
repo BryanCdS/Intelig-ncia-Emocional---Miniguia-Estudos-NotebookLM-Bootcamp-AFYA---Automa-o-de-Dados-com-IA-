@@ -1,4 +1,4 @@
-# Inteligência Emocional - Miniguia Estudos NotebookLM Bootcamp AFYA - Automação de Dados com IA
+# Inteligência Emocional - Miniguia Estudos NotebookLM
 
 CONTEXTO E OBJETIVO
 
