@@ -25,8 +25,8 @@ A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mi
 ENGENHARIA DE PROMPTS E "CICATRIZES"
 
 PERGUNTAS:
-O que é Inteligência Emocional?
-Quais são seus princípios?
-Quais são as vantagens e desvantagens?
-Como desenvolver?
-Falando como um especialista. Sabendo que no momento presente muitas pessoas apresentam alta aptidão ao desenvolvimento da Inteligência Emocional. Com tudo vem se evidenciando nessas mesmas pessoas, a presença mecanismos sabotadores. Considerando o que foi dito anteriormente. O que e como pode ser feito em relação ao Soft skills cobradas nos requisitos das vagas de trabalho?
+* O que é Inteligência Emocional?
+* Quais são seus princípios?
+* Quais são as vantagens e desvantagens?
+* Como desenvolver?
+* Falando como um especialista. Sabendo que no momento presente muitas pessoas apresentam alta aptidão ao desenvolvimento da Inteligência Emocional. Com tudo vem se evidenciando nessas mesmas pessoas, a presença mecanismos sabotadores. Considerando o que foi dito anteriormente. O que e como pode ser feito em relação ao Soft skills cobradas nos requisitos das vagas de trabalho?
