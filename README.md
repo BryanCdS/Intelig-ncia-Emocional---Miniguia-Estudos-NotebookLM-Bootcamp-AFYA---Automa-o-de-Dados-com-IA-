@@ -26,6 +26,7 @@ A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mi
 ### ENGENHARIA DE PROMPTS E "CICATRIZES"
 
 **PERGUNTAS:**
+
 * O que é Inteligência Emocional?
 * Quais são seus princípios?
 * Quais são as vantagens e desvantagens?
@@ -36,6 +37,7 @@ A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mi
 ### MINIGUIA DE ESTUDO (ENTREGA FINAL)
 
 **RESUMO ESTRUTURADO DO ASSUNTO**
+
 Este resumo estruturado apresenta os conceitos fundamentais da **Inteligência Emocional (IE)**, suas estruturas teóricas, impactos no bem-estar e estratégias de desenvolvimento, com base nas fontes fornecidas.
 
 ### 1. Definição e Conceitos Fundamentais
