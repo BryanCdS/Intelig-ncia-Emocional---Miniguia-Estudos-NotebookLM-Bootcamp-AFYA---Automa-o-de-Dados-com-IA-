@@ -25,7 +25,7 @@ A busca das fontes foi feita pelo seguinte termo: "Emotional Intelligence and Mi
 
 ### ENGENHARIA DE PROMPTS E "CICATRIZES"
 
-PERGUNTAS:
+**PERGUNTAS:**
 * O que é Inteligência Emocional?
 * Quais são seus princípios?
 * Quais são as vantagens e desvantagens?
